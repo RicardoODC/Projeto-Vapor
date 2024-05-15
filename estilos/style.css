@@ -57,12 +57,6 @@ div a:hover {
     text-decoration: solid;
 }
 
-div.fundoimage {
-    margin: auto;
-    height: 500px;
-    background-image: url('/Midias/webm_page_bg_portuguese.jpg');
-}
-
 nav {
     padding: 12px 0px 12px 0px;
     margin: 30px 0px 0px 65px;
@@ -84,6 +78,8 @@ nav a:hover {
     text-decoration: solid;
 
 }
+
+nav
     
 main {
     overflow: hidden;
