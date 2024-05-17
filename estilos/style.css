@@ -43,6 +43,7 @@ div {
     bottom: 48px;
     display: block;
     margin-left: 15.5em;
+    
 }
 
 div a {
@@ -79,10 +80,10 @@ nav a:hover {
 
 }
 
-nav
     
 main {
     overflow: hidden;
+    
 }
 
 main img {
